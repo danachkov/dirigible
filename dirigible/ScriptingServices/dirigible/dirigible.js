@@ -3,7 +3,7 @@
 
 var response = require('net/http/response');
 
-var message = 'Hello GitHub World!';
+var message = 'Hello GitHub World from Eclipse Dirigible!';
 
 // Print in the system output
 console.info(message);

@@ -3,7 +3,7 @@
 
 var response = require('net/http/response');
 
-var message = 'Hello World!';
+var message = 'Hello GitHub World!';
 
 // Print in the system output
 console.info(message);
